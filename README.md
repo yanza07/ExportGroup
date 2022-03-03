@@ -2,8 +2,7 @@
 
  ## Description
 Corel Macro for batch export
-</br> the main idea is export each selected object / group into separate JPGE file
-</br> just like [inkscape](https://inkscape.org/) batch export
+</br> imagine you have dozens of objects that need to be converted to jpg for client approval, exporting one by one will take a lot of time. unfortunately coreldraw doesn't have batch export feature like [inkscape](https://inkscape.org/) batch export (as far as i know), So I created this macro to help designers export multiple objects to jpg in no time
 
 ## Instalation
 1. Download or clone this repository
@@ -39,3 +38,4 @@ any contribution is highly appreciated as long as it doesn't stray far from the 
   - export to another file type
   - show how much object selected 
   - option to not replace existing file
+  - and much more...
